@@ -1,0 +1,86 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+body{
+    height: 95vh
+}
+.logo img{
+    width: 175px;
+    
+    
+}
+.logo{
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    
+
+}
+.form{
+    margin: 1%;
+    padding: 10px;
+    border: 1px solid black;
+    width: 350px;
+    height:275px;
+    display: flex;
+    flex-direction: column;
+    justify-content:space-between;
+    
+    
+}
+
+.word{
+    display: flex;
+    justify-content: space-between;
+}
+
+.texter{
+    display: flex;
+    flex-direction: column;
+
+}
+
+.signup{
+    text-align:center;
+    margin-top: 0px;
+    margin-bottom: 15px;
+}
+
+footer{
+    bottom: 0px;
+    width: 100%;
+    height: 5vh;
+}
+footer div{
+    text-align: center;
+}    
+
+footer hr{
+    margin: 0px;
+
+}
+footer{
+    padding: 0px;
+}
+footer div ul{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    list-style-type: none;
+    color: #0066c0
+}
+footer div li{
+    display:inline;
+    
+    margin-left: 0px;
+    margin-right: 20px;
+    
+
+}
